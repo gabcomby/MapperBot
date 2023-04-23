@@ -1,0 +1,45 @@
+<svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1152 576">
+<rect x="96" y="48" width="960" height="480" stroke="black" stroke-width="1" fill="white"/>
+<text x="96" y="36" font-family="arial" font-size="20" fill="blue">Section 01 - Equipe 1618 - Robot Alain Goffi</text>
+<polygon points="157,250 278,129 399,250 399,492" style="fill:green;stroke:black;stroke-width:1" />
+<text x="96" y="570" font-family="arial" font-size="30" fill="red">Aire: 363 pouces carres</text>
+
+<rect x="150" y="120" width="15" height="15" style="fill:rgb(0,0,0)" />
+<rect x="150" y="241" width="15" height="15" style="fill:rgb(0,0,0)" />
+<rect x="150" y="362" width="15" height="15" style="fill:rgb(0,0,0)" />
+<rect x="150" y="483" width="15" height="15" style="fill:rgb(0,0,0)" />
+<rect x="271" y="120" width="15" height="15" style="fill:rgb(0,0,0)" />
+<rect x="271" y="241" width="15" height="15" style="fill:rgb(0,0,0)" />
+<rect x="271" y="362" width="15" height="15" style="fill:rgb(0,0,0)" />
+<rect x="271" y="483" width="15" height="15" style="fill:rgb(0,0,0)" />
+<rect x="392" y="120" width="15" height="15" style="fill:rgb(0,0,0)" />
+<rect x="392" y="241" width="15" height="15" style="fill:rgb(0,0,0)" />
+<rect x="392" y="362" width="15" height="15" style="fill:rgb(0,0,0)" />
+<rect x="392" y="483" width="15" height="15" style="fill:rgb(0,0,0)" />
+<rect x="513" y="120" width="15" height="15" style="fill:rgb(0,0,0)" />
+<rect x="513" y="241" width="15" height="15" style="fill:rgb(0,0,0)" />
+<rect x="513" y="362" width="15" height="15" style="fill:rgb(0,0,0)" />
+<rect x="513" y="483" width="15" height="15" style="fill:rgb(0,0,0)" />
+<rect x="634" y="120" width="15" height="15" style="fill:rgb(0,0,0)" />
+<rect x="634" y="241" width="15" height="15" style="fill:rgb(0,0,0)" />
+<rect x="634" y="362" width="15" height="15" style="fill:rgb(0,0,0)" />
+<rect x="634" y="483" width="15" height="15" style="fill:rgb(0,0,0)" />
+<rect x="755" y="120" width="15" height="15" style="fill:rgb(0,0,0)" />
+<rect x="755" y="241" width="15" height="15" style="fill:rgb(0,0,0)" />
+<rect x="755" y="362" width="15" height="15" style="fill:rgb(0,0,0)" />
+<rect x="755" y="483" width="15" height="15" style="fill:rgb(0,0,0)" />
+<rect x="876" y="120" width="15" height="15" style="fill:rgb(0,0,0)" />
+<rect x="876" y="241" width="15" height="15" style="fill:rgb(0,0,0)" />
+<rect x="876" y="362" width="15" height="15" style="fill:rgb(0,0,0)" />
+<rect x="876" y="483" width="15" height="15" style="fill:rgb(0,0,0)" />
+<rect x="997" y="120" width="15" height="15" style="fill:rgb(0,0,0)" />
+<rect x="997" y="241" width="15" height="15" style="fill:rgb(0,0,0)" />
+<rect x="997" y="362" width="15" height="15" style="fill:rgb(0,0,0)" />
+<rect x="997" y="483" width="15" height="15" style="fill:rgb(0,0,0)" />
+<rect x="150" y="485" width="15" height="15" style="fill:rgb(255,0,0)" />
+<circle cx="157" cy="250" r="15" stroke="black" stroke-width="2" fill="rgb(128,128,128)" />
+<circle cx="399" cy="492" r="15" stroke="black" stroke-width="2" fill="rgb(128,128,128)" />
+<circle cx="399" cy="371" r="15" stroke="black" stroke-width="2" fill="rgb(128,128,128)" />
+<circle cx="399" cy="250" r="15" stroke="black" stroke-width="2" fill="rgb(128,128,128)" />
+<circle cx="278" cy="129" r="15" stroke="black" stroke-width="2" fill="rgb(128,128,128)" />
+</svg>
