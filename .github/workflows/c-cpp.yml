@@ -13,9 +13,21 @@ jobs:
 
     steps:
     - uses: actions/checkout@v3
-    - name: make
+    - name: make lib
+      working-directory: ./lib
       run: make
-    - name: make check
+    - name: make app
+      working-directory: ./app
+      run: make
+    - name: make check lib
+      working-directory: ./lib
       run: make check
-    - name: make distcheck
+    - name: make check app
+      working-directory: ./ap
+      run: make check
+    - name: make distcheck lib
+      working-directory: ./lib
+      run: make distcheck
+    - name: make distcheck app
+      working-directory: ./app
       run: make distcheck
