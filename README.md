@@ -67,3 +67,15 @@ Plug-in your ATMega324PA using a USB cable, then follow these steps.
 6. Once all desired poles have been detected, press the "Reset" button
 7. Plug the robot back into the computer, and run step 4 of the "Installation" chapter
 8. Press the white button located on the breadboard
+
+## Academic Integrity Notice
+
+This project is shared publicly on GitHub for educational purposes only. The code and accompanying resources are provided under the MIT License, which allows for the use, modification, and distribution of this software, subject to the conditions specified in the license.
+
+However, using this project, in part or in full, to complete a school assignment, coursework, or any other academic task WITHOUT proper attribution or consent is STRICTLY PROHIBITED. By using this project, you agree to respect the principles of academic integrity and avoid any form of plagiarism.
+
+If you are a student and wish to use or reference this project in your academic work, please ensure that you properly cite the source, giving credit to the original author. Consult your institution's guidelines on citation and attribution to ensure compliance with academic integrity policies.
+
+Failure to comply with this notice and the principles of academic integrity may result in disciplinary action from your educational institution, up to and including expulsion.
+
+If you have any questions or concerns regarding the use of this project, please contact the original author.
