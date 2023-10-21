@@ -9,6 +9,7 @@ Creating a robot that can detect poles on a table and map them out. Afterwards, 
 - [@gabcomby](https://github.com/gabcomby)
 - [@Maxsavy](https://github.com/Maxsavy)
 - [@charlo3112](https://github.com/charlo3112)
+- [@nicomayr](https://github.com/nicomayr)
 
 
 ## Created For
